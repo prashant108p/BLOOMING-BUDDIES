@@ -1,7 +1,4 @@
-# BLOOMING-BUDDIES
-BLOOMING BUDDIES is an online flower market. where you can signup create an account and can add your flowers for the sale. this can help you in your bussiness. this is the link for website:
-https://majorproject-22hg.onrender.com
-
+# BLOOMING-BUDDIEs
 
 ![Screenshot (89)](https://github.com/user-attachments/assets/fa3314e4-3380-43b5-ad83-05219e1c2bff)
 ![Screenshot (95)](https://github.com/user-attachments/assets/f9f5045f-7aa6-49f9-beb9-5393f292804d)
